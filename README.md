@@ -7,12 +7,9 @@ A **To-Do List** application that helps users manage tasks efficiently using **P
 ## 🚀 Features
 
 - ✅ **Task Management**: Add, update, delete, and mark tasks as completed.  
-- ✅ **Linked List Implementation**: Uses a linked list for efficient task storage.  
-- ✅ **User Authentication**: Login & session management (Django-based).  
-- ✅ **Responsive UI**: Built with HTML, CSS, and JavaScript.  
-- ✅ **REST API Support**: API endpoints for task operations.  
+- ✅ **Linked List Implementation**: Uses a linked list for efficient task storage.   
+- ✅ **Responsive UI**: Built with HTML, CSS, and JavaScript.   
 - ✅ **Reminders & Notifications**: Alert users about pending tasks.  
-- ✅ **Database Integration**: Uses Python's data structures for task storage.  
 - ✅ **Cross-Browser Compatibility**: Works on all modern web browsers.  
 
 ---
@@ -22,7 +19,6 @@ A **To-Do List** application that helps users manage tasks efficiently using **P
 | Technology | Purpose |
 |------------|---------|
 | **Python** | Backend logic & task processing |
-| **Flask** | API development |
 | **Django** | Authentication & session management |
 | **Linked List** | Data structure for efficient task management |
 | **JavaScript** | Frontend interactivity |
